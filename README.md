@@ -19,4 +19,4 @@
 
 ### Follow me
 [![VKONTAKTE](https://img.shields.io/badge/-vkontakte-090909?style=for-the-badge&logo=vk)](https://vk.com/id94975770)
-[![INSTAGRAM](https://img.shields.io/badge/-instagram-090909?style=for-the-badge&logo=instagram)](https://www.instagram.com/sega9617/)
+[![INSTAGRAM](https://img.shields.io/badge/-instagram-090909?style=for-the-badge&logo=instagram)](https://www.instagram.com/sage_mage9617/)
